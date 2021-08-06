@@ -71,10 +71,8 @@ Password:  clougence2021
 # How to submit issue ?
 There are two ways for you to submit your issue 
 - [Recommended] Submit issue to our communitiy [AskCug](https://www.askcug.com/category/11/%E9%97%AE%E7%AD%94%E5%8C%BA), and we will process issue in community preferentially.
-- Submit issue in our CloudCanal github issue reposity 
 
-https://www.askcug.com/category/11/%E9%97%AE%E7%AD%94%E5%8C%BA
-[github repository](https://github.com/ClouGence/cloudcanal-issue)
+- Submit issue in our CloudCanal [github issue reposity ](https://github.com/ClouGence/cloudcanal-issue)
 
 # How to contact us and get support
 You can access [this web page ](https://www.askcug.com/topic/75/cloudcanal%E7%A4%BE%E5%8C%BA%E7%89%88docker%E7%89%88%E5%AE%89%E8%A3%85-linux-macos/2)and find the wechat QR code at the end of the content. You also can replay in this page if you have any questions.
