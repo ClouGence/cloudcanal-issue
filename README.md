@@ -5,6 +5,8 @@ This project for [CloudCanal](https://www.clougence.com) community members to su
 # What is CloudCanal
 CloudCanal is a Data Synchronization and Migration Tool that helps enterprises build high-quality data pipelines with real-time efficiency, precise interconnection, stability and scalability, one-stop, hybrid deployment, and complex data transformation.
 
+CloudCanal is not an open source project, but have FREE community version product with many users.
+
 ## Data Migration
 
 It relocates all the data of the specified DataSource to the target DataSource, supports various DataSource, and has the characteristics of resumable upload, sequential page scanning, parallel scanning, metadata mapping and pruning, custom code data processing, batch writing, parallel writing, and data condition filtering, which has little impact on the source data source and good performance, and meets the needs of light data processing.
