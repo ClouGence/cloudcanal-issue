@@ -1,6 +1,6 @@
 # Overview
 
-This project for CloudCanal community members to submit issues, include bug reports, new features and product suggestions. CloudCanal's [Official Site](https://www.clougence.com).
+This project for [CloudCanal](https://www.clougence.com) community members to submit issues, include bug reports, new features and product suggestions.
                         
 # What is CloudCanal
 CloudCanal is a Data Synchronization and Migration Tool that helps enterprises build high-quality data pipelines with real-time efficiency, precise interconnection, stability and scalability, one-stop, hybrid deployment, and complex data transformation.
